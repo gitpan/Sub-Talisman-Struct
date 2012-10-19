@@ -14,11 +14,11 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 216ce1508e07c6a3eaecdbd3ad40e9aac2ac9094 Changes
+SHA1 7223321a8894c5b97ab397ae7b170dd261fe2b59 Changes
 SHA1 0b3e6a108fda26afde82f183650c83ea64da988f HACKING
 SHA1 cc087c3dd6e1b519c680e68cd0231735a68300a0 LICENSE
 SHA1 0dca67a427d11ebb52c402387f43b6cf5ddaca12 MANIFEST
-SHA1 139d425e54ba17c9b337d58e92520e5a9fe5f29e META.yml
+SHA1 0adcbb30ecee9efc0fc8b471824a84a8bd5384d7 META.yml
 SHA1 b9d5dd0b476253d37384aed42664179605286153 Makefile.PL
 SHA1 8427aab7847bf189adb61c19c0b9d3bc70af3113 README
 SHA1 06c410f05488c1612ed66b06d3a86b2580581e4a inc/Module/AutoInstall.pm
@@ -41,17 +41,17 @@ SHA1 0e0eed2e69d9583081868cf4f220068d0a018568 inc/Scalar/Util.pm
 SHA1 feb933cefe2e3762e8322bd6071a2499f3440da1 inc/YAML/Tiny.pm
 SHA1 8105c0510a773b56840995fb4dd2dc64fe9ddaee inc/unicore/Name.pm
 SHA1 36df501c7c9b73c282c5174ed54d8283b2f2cbf2 inc/utf8.pm
-SHA1 2c44a7935ae3070ce0219b9242f993b376d0d9c6 lib/Sub/Talisman/Struct.pm
-SHA1 89bfe14c5a10346c83472ae035ee37add1abaa93 meta/changes.pret
+SHA1 b11c0ce5fb1e0074bc9fe9cc0353fb9b1587a60b lib/Sub/Talisman/Struct.pm
+SHA1 6e7cfc7332acfd18118085cef5025d23215bbd11 meta/changes.pret
 SHA1 a1a96b92df50cf8e3a113755191b6254b85a1611 meta/doap.pret
 SHA1 70c944d4b20413186d93e73dee5f6f324f2d607d meta/makefile.pret
 SHA1 a151cff74b5f29c00381a14d4ec8726e3763b6b2 meta/people.pret
-SHA1 e55761a78be4cd4dab8d26f9fcba6cd6c6609613 t/01basic.t
-SHA1 09de015a4dcd15feeaa0d5bcb15f784c74e00046 t/02stuff_that_should_die.t
+SHA1 f8d31d7927b41abd3270725ad7577618b4159204 t/01basic.t
+SHA1 1c3af205ed9fbf1bf472fa14d0b0aed5643ccd79 t/02stuff_that_should_die.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.10 (GNU/Linux)
 
-iEYEARECAAYFAlCBI8sACgkQzr+BKGoqfTlL/QCgjlyuoIcsn6NKnE0Rpm3zwgIk
-EAYAn0WWp2QK+bJhzbPimwzjRgUqiOJZ
-=iYp2
+iEYEARECAAYFAlCBKDkACgkQzr+BKGoqfTnI6gCfSRIQlODBoSHcROZWbMDMLwTT
+UGwAnipBfLRxkws80sgt0jsj4kQ89b5O
+=wox/
 -----END PGP SIGNATURE-----
