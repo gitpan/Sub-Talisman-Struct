@@ -31,15 +31,14 @@ DESCRIPTION
     classes for Sub::Talisman to bless attribute parameters into.
 
     Sub::Talisman::Struct itself is a subclass of Sub::Talisman, so inherits
-    the "get_attributes", "get_attribute_parameters", "get_subs" and
-    "setup_for" methods as documented.
+    the `get_attributes`, `get_attribute_parameters`, `get_subs` and
+    `setup_for` methods as documented.
 
-    Note that the term "attribute" is incredibly overloaded, applying both
-    to the tags like ":Provenance" applied to the subs, and also to the
-    members of Moo classes, so in depth discussions of this module will tend
-    to descend into chaos. So I'll leave it at that for the documentation.
-    If you need any further clarification, take a peek at the bundled test
-    suite.
+    Note that the term "attribute" is incredibly overloaded, applying both to
+    the tags like `:Provenance` applied to the subs, and also to the members
+    of Moo classes, so in depth discussions of this module will tend to
+    descend into chaos. So I'll leave it at that for the documentation. If you
+    need any further clarification, take a peek at the bundled test suite.
 
 BUGS
     Please report any bugs to
@@ -54,8 +53,8 @@ AUTHOR
 COPYRIGHT AND LICENCE
     This software is copyright (c) 2012 by Toby Inkster.
 
-    This is free software; you can redistribute it and/or modify it under
-    the same terms as the Perl 5 programming language system itself.
+    This is free software; you can redistribute it and/or modify it under the
+    same terms as the Perl 5 programming language system itself.
 
 DISCLAIMER OF WARRANTIES
     THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED
